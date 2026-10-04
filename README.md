@@ -106,7 +106,7 @@ I'm **Yaanz Official**, an independent developer building **web platforms**, **A
 
 <p align="center">
 <a href="https://www.tiktok.com/@yforyaanz" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-@doyang.doyang1-000000?style=for-the-badge&logo=tiktok&logoColor=FF2A5F&labelColor=000000" />
+<img src="https://img.shields.io/badge/TikTok-@yforyaanz-000000?style=for-the-badge&logo=tiktok&logoColor=FF2A5F&labelColor=000000" />
 </a>
 <a href="https://whatsapp.com/channel/0029VbDJyjCGk1Fzuy7Bkq2h" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
